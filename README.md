@@ -111,5 +111,20 @@ Execute the following command in your terminal:
 ```sh
 python Spam Classification Deployment.py
 ```
-  
+###PROJECT STRUCTURE
+
+├── data/
+
+│   └── spam_dataset.csv
+
+├── scripts/
+
+│   ├── data_preprocessing.py    # Data cleaning and preprocessing
+
+│   ├── model_training.py        # Model training and evaluation
+
+│   ├── Spam_Classification_Deployment.py    # Deployment code
+
+├── README.md    # Project documentation
+
 
